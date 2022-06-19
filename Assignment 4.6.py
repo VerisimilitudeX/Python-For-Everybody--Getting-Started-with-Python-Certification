@@ -9,8 +9,7 @@ def computepay(hrs, rph):
         gp2 = 40 * rph
         gp = gp1 + gp2
      	return gp
-
-# Prompt user for hours and rate per hour
+    
 hrs = float(input("Enter Hours: "))
 rph = float(input("Enter rate per hour: "))
 
