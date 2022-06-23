@@ -1,4 +1,4 @@
-# Python-For-Everybody-Certification
+# Python-For-Everybody-Certifications
 * All of the projects that were completed in order to receive the Python For Everybody certifications from Coursera. 
 * The certifications can be viewed here:
   * https://www.coursera.org/account/accomplishments/verify/U9CQ57JC3KH6
